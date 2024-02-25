@@ -15,7 +15,7 @@ body {
 }
 
 .row:nth-child(even) {
-  margin-left: 2px;
+  margin-left: 1px;
 }
 
 .hexagon {
