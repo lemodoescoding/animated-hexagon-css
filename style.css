@@ -12,10 +12,11 @@ body {
   display: inline-flex;
   margin-top: -32px;
   margin-left: -50px;
+  margin-bottom: 4px;
 }
 
 .row:nth-child(even) {
-  margin-left: 1px;
+  margin-left: 2px;
 }
 
 .hexagon {
